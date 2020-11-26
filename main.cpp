@@ -23,7 +23,7 @@ int main()
 		cout << MySub(10,3) << endl;
 		break;
 	case '3':
-		cout << "Функция в разработке" << endl;
+		cout << MyMul(10,3) << endl;
 		break;
 	case '4':
 		cout << "Функция в разработке" << endl;
