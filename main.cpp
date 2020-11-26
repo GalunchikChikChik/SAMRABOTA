@@ -20,7 +20,7 @@ int main()
 		cout << MySum(10,3) << endl;
 		break;
 	case '2':
-		cout << "Функция в разработке" << endl;
+		cout << MySub(10,3) << endl;
 		break;
 	case '3':
 		cout << "Функция в разработке" << endl;
