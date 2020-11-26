@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <iostream>
 
@@ -18,7 +17,7 @@ int main()
 	switch (n)
 	{
 	case '1':
-		cout << "Функция в разработке" << endl;
+		cout << MySum(10,3) << endl;
 		break;
 	case '2':
 		cout << "Функция в разработке" << endl;
