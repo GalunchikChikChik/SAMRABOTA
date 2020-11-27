@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-#include <funcs.h>
+#include "funcs.h"
 using namespace std;
 
 int main()
@@ -26,7 +26,7 @@ int main()
 		cout << MyMul(10,3) << endl;
 		break;
 	case '4':
-		cout << Mydiv(10,3) << endl;
+		cout << MyDiv(10,3) << endl;
 		break;
 	default:
 		cout << "Номер функции неправильный" << endl;
